@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:ext="http://exist-db.org/vra/extension" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <work id="w_68e19a09-a7c6-5905-bcd6-3d4ccb1c6e14" source="EXC Priya Paul Collection">
+        <agentSet>
+            <agent>
+                <name vocab="viaf" type="personal" refid="277848046">Paul, Priya</name>
+                <role vocab="marcrelator" type="code">col</role>
+            </agent>
+            <agent>
+                <name vocab="local" type="corporate" refid="uuid-0f92b2c1-39ef-5778-8f43-a12c01321bbb">Thakur Savadekar &amp; Co.</name>
+                <role vocab="marcrelator" type="code">cli</role>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>
+                    <date>1942</date>
+                </earliestDate>
+                <latestDate>
+                    <date>1942</date>
+                </latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description lang="eng" script="Latn">
+                <text>This advertisement calendar for Thakur Savadekar Company shows a round central image. In it, a male hunter approaches a  young woman. He wears a blue dress with yellow turban. He holds a bow in his right hand and carries a quiver of arrows on his back. Sitting on the edge of a red boat he touches the right shoulder of the woman with his left hand. The woman is standing next to him, holding a long paddle - more like a lute. She wears little and seemingly transparent garments. Although there is a red anchor leaning to the boat - which is also painted on the paddle and is the little hidden advertisement for the Anchor Bidi brand - the boat is attached to a wooden pole in the foreground. In the background a beautiful landscape opens with a river to the right, while mountains and some trees are visible to the left. Around the image, bidi packages, manufacturer's addresses and a calendar of 1942, showing the January sheet, are depicted.</text>
+                <author>
+                    <name vocab="local" type="personal" refid="uuid-d4f4f076-3fb9-5544-95bf-29ba8cb16992">Schoenhofer, Gerhard</name>
+                    <role vocab="marcrelator" type="code">mdc</role>
+                </author>
+                <author>
+                    <name vocab="local" type="personal" refid="uuid-d71f0b41-8640-58b1-9549-9a3447418a2a">Buchwald, Tony</name>
+                    <role vocab="marcrelator" type="code">mdc</role>
+                </author>
+            </description>
+            <description lang="eng" script="Latn" vocab="aat" refid="300240903">
+                <text>framing (processes)</text>
+            </description>
+            <description lang="eng" script="Latn">
+                <text>This is a sample record. Data in the original record may have changed. The original record can be accessed at w_8ce51a5f-c328-5fa4-8e60-0aec4ca010e2</text>
+                <author>
+                    <name vocab="local" type="corporate" refid="uuid-492ff6ac-d4b8-5d8a-b6c9-58287f9184cb">PPColl_editors</name>
+                    <role vocab="marcrelator" type="code">edt</role>
+                </author>
+            </description>
+        </descriptionSet>
+        <inscriptionSet>
+            <inscription>
+                <text type="text" lang="hin" script="Deva">तारका पता, "धूम्रपान" पूना</text>
+            </inscription>
+            <inscription>
+                <text type="text" lang="eng" script="Latn">Telegrams, "Dhumrapan" Poona</text>
+            </inscription>
+            <inscription>
+                <text type="text" lang="hin" script="Deva">ॐ</text>
+            </inscription>
+            <inscription>
+                <text type="text" lang="hin" script="Deva">ठाकुर सावेद्कर कंपनी, पूना.</text>
+            </inscription>
+            <inscription>
+                <text type="text" lang="hin" script="Deva">लंगर छाप बीड़ी</text>
+            </inscription>
+            <inscription>
+            	<position>bidi advertisement top left</position>
+                <text type="text" lang="eng" script="Latn">Registered
+Trade Mark
+Anchor
+Brand
+BIDI
+No. 1
+No. 976
+Thakur Savadekar &amp; Co.
+Poona.</text>
+            </inscription>
+            <inscription>
+            	<position>bidi advertisement top left</position>
+            	<text type="text" lang="hin" script="Deva">ठाकूर सावेद्कर कंपनी पूना
+नं. १
+लंगर
+छाप</text>
+            </inscription>
+            <inscription>
+            	<position>bidi advertisement top right</position>
+            	<text type="text" lang="eng" script="Latn">Registered
+Trade Mark
+Anchor
+Brand
+BIDI
+No. 1
+No. 978
+Thakur Savadekar &amp; Co.
+Poona.</text>
+            </inscription>
+            <inscription>
+            	<position>bidi advertisement top right</position>
+            	<text type="text" lang="hin" script="Deva">ठाकूर सावेद्कर कंपनी पूना
+नं. १
+लंगर
+छाप</text>
+            </inscription>
+            <inscription>
+            	<position>lower left of center image</position>
+            	<text type="text" lang="hin" script="Deva">हमारा नाम
+लेबलपर पढकर
+लंगर छाप बीड़ी
+खरीदे</text>
+            </inscription>
+            <inscription>
+            	<position>lower right of center image</position>
+            	<text type="text" lang="hin" script="Deva">लंगर छाप
+बीडी 
+पीनेमे मीठी और
+लज्जतदार है.</text>
+            </inscription>
+            <inscription>
+            	<position>box below center image</position>
+            	<text type="text" lang="hin" script="Deva">बॉम्बे बिडी
+लंगर छाप-
+रजिस्टर नं. २६८४ 
+ठाकूर सावेद्कर कंपनी, पुणें नं. २</text>
+            </inscription>
+            <inscription>
+                <text type="text" lang="hin" script="Deva">नकलोंसे सावधान</text>
+            </inscription>
+            <inscription>
+                <text type="text" lang="eng" script="Latn">Thakur Savadekar &amp; Co.
+Bidi Manufacturers
+377 Vetal Peth
+Poona 2.
+Smoke Anchor Brand Bidis</text>
+            </inscription>
+            <inscription>
+                <text type="text" lang="eng" script="Latn">1942</text>
+            </inscription>
+            <inscription>
+                <text type="text" lang="hin" script="Deva">ठाकूर सावेद्कर कंपनी
+पुणें.
+यांची
+लंगर छाप बिडी ओढा</text>
+            </inscription>
+            <inscription>
+            	<position>manufacturer's signet on center image</position>
+            	<text type="text" lang="hin" script="Deva">ठाकूर सावेद्कर कं पूना
+लंगर बिडी
+[manufacturer's signet]</text>
+            </inscription>
+        </inscriptionSet>
+        <locationSet>
+            <location source="exc" type="repository">
+                <name type="corporate" vocab="local" refid="uuid-1544a228-b79f-5cd9-a2ac-ff357ef3da5b">Delhi / The Priya Paul Collection of Popular Art</name>
+            </location>
+        </locationSet>
+        <materialSet>
+            <material vocab="aat" refid="300014109" type="medium">paper (fiber product)</material>
+        </materialSet>
+        <measurementsSet>
+            <notes>H 50 cm, W 38 cm, portrait</notes>
+            <measurements type="height" unit="cm">50</measurements>
+            <measurements type="width" unit="cm">38</measurements>
+            <measurements shape="portrait"/>
+        </measurementsSet>
+        <relationSet>
+            <relation type="imageIs" relids="i_d89f80e0-4b94-5d85-a75f-44be6ec3eea1" source="EXC Priya Paul Collection, HeidIcon" pref="true">general view</relation>
+            <relation type="imageIs" relids="i_d35c0c58-33dd-559a-9e1f-1c132f503580" source="EXC Priya Paul Collection, HeidIcon">close-up view</relation>
+            <relation type="imageIs" relids="i_52e19f9e-7e6f-5d77-be9b-4dde328cf1ed" source="EXC Priya Paul Collection, HeidIcon">detail view</relation>
+        </relationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <rightsHolder/>
+                <text>Copyrighted. Copyright with the original artists and publishers.</text>
+            </rights>
+        </rightsSet>
+        <sourceSet>
+            <source>
+                <name>http://www.thakursavadekar.com/</name>
+            	<refid type="URI">http://kjc-sv016.kjc.uni-heidelberg.de:8080/exist/apps/tamboti/modules/search/index.html?search-field=ID&value=uuid-8ea367c0-1b39-3137-9a49-f9259c74c346</refid>
+            </source>
+        </sourceSet>
+        <subjectSet>
+            <subject source="exc" vocab="LOCAL" refid="673d0b1a-3753-53e6-a397-f13384501b2b">
+                <term type="descriptiveTopic">mountains</term>
+            </subject>
+            <subject source="exc" vocab="LOCAL" refid="2b8d27a0-4d79-54d8-bc99-98dce092cec2">
+                <term type="descriptiveTopic">arrows</term>
+            </subject>
+            <subject source="exc" vocab="LOCAL" refid="8373d6f0-a4f0-5198-a092-25ff4af2c41f">
+                <term type="descriptiveTopic">posters</term>
+            </subject>
+            <subject source="exc" vocab="LOCAL" refid="fa6616f5-f242-521a-843c-c5b084cc7845">
+                <term type="descriptiveTopic">advertisements</term>
+            </subject>
+            <subject source="exc" vocab="LOCAL" refid="56281032-b1d8-5e50-beab-a65e6c39318c">
+                <term type="descriptiveTopic">bows (weapons)</term>
+            </subject>
+            <subject source="exc" vocab="LOCAL" refid="e96f2402-7aa3-539e-99cf-6bce03f8b2b4">
+                <term type="descriptiveTopic">product advertisement</term>
+            </subject>
+            <subject source="exc" vocab="LOCAL" refid="37e0ef55-0bad-54b1-8ded-1082206c6016">
+                <term type="descriptiveTopic">calendars</term>
+            </subject>
+            <subject source="exc" vocab="LOCAL" refid="2929d0b5-473a-56ba-a56c-f4e80e338e41">
+                <term type="descriptiveTopic">turbans</term>
+            </subject>
+            <subject source="exc" vocab="LOCAL" refid="107e847d-72b0-54f9-9057-b373db96a343">
+                <term type="descriptiveTopic">forests</term>
+            </subject>
+            <subject source="exc" vocab="LOCAL" refid="5baf3f4c-27ac-5b6b-a12a-0450ff4b9e56">
+                <term type="descriptiveTopic">bidi</term>
+            </subject>
+            <subject source="exc" vocab="LOCAL" refid="eb8119d1-6749-5f22-b616-4ad7d43afc0e">
+                <term type="descriptiveTopic">anchors (watercraft equipment)</term>
+            </subject>
+            <subject source="exc" vocab="LOCAL" refid="64560843-6236-5725-b42d-f1bb8c715604">
+                <term type="descriptiveTopic">Anchor Brand Bidi (product)</term>
+            </subject>
+            <subject source="exc" vocab="LOCAL" refid="10291f72-d324-5196-a0ad-5a979a2b5b84">
+                <term type="descriptiveTopic">shores (landforms)</term>
+            </subject>
+            <subject source="exc" vocab="LOCAL" refid="a0eb956b-2ec4-566f-bf77-9ecd5ee9650d">
+                <term type="descriptiveTopic">oars</term>
+            </subject>
+        </subjectSet>
+        <techniqueSet>
+            <technique vocab="aat" refid="300041384">chromolithographs</technique>
+        </techniqueSet>
+        <titleSet>
+            <title type="descriptive" pref="true" lang="eng" script="Latn">Advertisement calendar for Thakur Savadekar &amp; Co. (1942)</title>
+            <title type="inscribed" pref="false" lang="hin" transliteration="hindi/ala-lc">Thakur Savedakar Kampani, pure langar Chap Bidi</title>
+            <title type="inscribed" pref="false" lang="hin" script="Deva">ठाकुर सावेद्कर कंपनी, पूना  लंगर छाप बीड़ी</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="aat" refid="300026741">calendars</worktype>
+        </worktypeSet>
+        <ext:heidicon>
+            <ext:item type="t_rh" status="0" display="comment:related_hyperlinks">
+                <ext:value type="url">http://www.thakursavadekar.com/</ext:value>
+                <ext:value type="accessed">2012-02-26</ext:value>
+                <ext:value type="comment">basic information as quoted above.</ext:value>
+                <ext:item type="agent">
+                    <ext:value type="role">Editor</ext:value>
+                    <ext:value type="name">Schoenhofer, Gerhard</ext:value>
+                    <ext:value type="agent-type">personal</ext:value>
+                    <ext:value type="refid">uuid-d4f4f076-3fb9-5544-95bf-29ba8cb16992</ext:value>
+                </ext:item>
+            </ext:item>
+        </ext:heidicon>
+        <ext:heidicon>
+            <ext:item type="t_ecs" status="0" display="comment:explanatory_comments_crosstagging">
+                <ext:value type="text">Info from the Thakur Savadekar &amp; Co. webpage: Thakur Savadekar &amp; Co. Pvt. Ltd. is one of India’s leading Bidi manufacturing companies. We are a team of strong and dedicated achievers and have charted out a defined growth path for ourselves. With an aspiration to reform standards and incorporate innovations in the bidi manufacturing sector, Thakur Savadekar is here with a vision "To be India’s most profound manufacturer and exporter of different types of bidis by delivering high quality products." Our main brands are “Langar Bidi” and “Govind Bidi”. The head office is situated in Pune and the distribution and sales offices are spread across India.</ext:value>
+                <ext:item type="agent">
+                    <ext:value type="role">Editor</ext:value>
+                    <ext:value type="name">Schoenhofer, Gerhard</ext:value>
+                    <ext:value type="agent-type">personal</ext:value>
+                    <ext:value type="refid">uuid-d4f4f076-3fb9-5544-95bf-29ba8cb16992</ext:value>
+                </ext:item>
+            </ext:item>
+        </ext:heidicon>
+        <ext:heidicon>
+            <ext:item type="f_zusammenhang" status="0" display="zusammenhang">
+                <ext:value>good</ext:value>
+            </ext:item>
+        </ext:heidicon>
+        <ext:heidicon>
+            <ext:item type="f_url1" status="0" display="URL1">
+                <ext:value type="url1">http://www.thakursavadekar.com/</ext:value>
+            </ext:item>
+        </ext:heidicon>
+        <ext:heidicon>
+            <ext:item type="f_id_heidicon" status="0" display="Heidicon image_id">
+                <ext:value>http://heidicon.ub.uni-heidelberg.de/id/118639</ext:value>
+                <ext:value>118639</ext:value>
+            </ext:item>
+        </ext:heidicon>
+        <ext:heidicon>
+            <ext:item type="modification" status="0">
+                <ext:value type="date">2014-08-22T21:05:00</ext:value>
+                <ext:item type="agent">
+                    <ext:value type="role">Editor</ext:value>
+                    <ext:value type="name">Arnold, Matthias</ext:value>
+                    <ext:value type="agent-type">personal</ext:value>
+                    <ext:value type="refid">uuid-009f50e1-2a8e-5896-89a1-665effeff19c</ext:value>
+                </ext:item>
+            </ext:item>
+        </ext:heidicon>
+        <ext:heidicon>
+            <ext:administrative type="heidicon2vra" date="2014-03-11T15:50:25"/>
+        </ext:heidicon>
+    </work>
+</vra>

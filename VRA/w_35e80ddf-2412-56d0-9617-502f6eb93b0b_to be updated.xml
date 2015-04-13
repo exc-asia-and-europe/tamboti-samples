@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:ext="http://exist-db.org/vra/extension"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <work id="w_35e80ddf-2412-56d0-9617-502f6eb93b0b" source="EXC Priya Paul Collection">
+        <agentSet>
+            <agent>
+                <name vocab="viaf" type="personal" refid="277848046">Paul, Priya</name>
+                <role vocab="marcrelator" type="code">col</role>
+            </agent>
+            <agent>
+                <name vocab="local" type="corporate" refid="uuid-92272c4f-9960-532a-a9de-ac90a1aaa052">Anand Singh &amp; Co.</name>
+                <role vocab="marcrelator" type="code">cli</role>
+            </agent>
+            <agent>
+                <name vocab="local" type="corporate" refid="uuid-ea097fa4-78fc-5a55-8cce-116e4042b560">Calendar Manufacturing Company</name>
+                <role vocab="marcrelator" type="code">mfr</role>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>
+                    <date>1936</date>
+                </earliestDate>
+                <latestDate>
+                    <date>1936</date>
+                </latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description lang="eng" script="Latn">
+                <text>A fair skinned young woman sits behind a table and writes a supply-order to Anand Singh &amp; Co. on a writing pad. Her black hair is tied back, she wears a pink silk dress and holds spectacles in her hand. She wears some jewellery: bracelets, a pearl necklace, earrings and a ring on her right hand. The image is part of an advertisement calendar. It is surrounded by different emblems or medals that represent various recommendations and awards won by the advertised company. The lower section shows a calendar for the year 1936 with an illustration of a woman playing the harmonium to the left and the full view of a harmonium to the right.</text>
+                <author>
+                    <name vocab="local" type="personal" refid="uuid-d4f4f076-3fb9-5544-95bf-29ba8cb16992">Schoenhofer, Gerhard</name>
+                    <role vocab="marcrelator" type="code">mdc</role>
+                </author>
+                <author>
+                    <name vocab="local" type="personal" refid="uuid-dc8e6805-ec52-547a-993f-586ebd9681cc">Padmanabhan, Sridevi</name>
+                    <role vocab="marcrelator" type="code">mdc</role>
+                </author>
+            </description>
+            <description lang="eng" script="Latn">
+                <text>This is a sample record. Data in the original record may have changed. The original record can be accessed at w_f91403dd-4217-5e1c-a41a-34978b68a2b1</text>
+                <author>
+                    <name vocab="local" type="corporate" refid="uuid-492ff6ac-d4b8-5d8a-b6c9-58287f9184cb">PPColl_editors</name>
+                    <role vocab="marcrelator" type="code">edt</role>
+                </author>
+            </description>
+        </descriptionSet>
+        <inscriptionSet>
+            <inscription>
+                <text type="text" lang="eng" script="Latn">With best Compliments from:
+Anand Singh &amp; Co [...][damaged]
+(Gold Medalists.)</text>
+            </inscription>
+            <inscription>
+                <text type="text" lang="eng" script="Latn">Manufacturers of all kinds of:
+High Class Harmoniums.
+Egerton Road, Delhi.</text>
+            </inscription>
+            <inscription>
+                <text type="text" lang="eng" script="Latn">Anand Singh &amp; Co: Delhi. Please Supply:</text>
+            </inscription>
+            <inscription>
+                <text type="text" lang="eng" script="Latn">Awarded to M-S. Anand Singh
+                    &amp; Co. Delhi By Raja of Jaunpur 1927</text>
+            </inscription>
+            <inscription>
+                <text type="text" lang="eng" script="Latn">Exhibition Meerut 1925
+                    Anand Singh of Delhi</text>
+            </inscription>
+            <inscription>
+                <text type="text" lang="eng" script="Latn">Muttra
+                    EXBN. 1925
+                    Awarded to Anand Singh &amp; Co. Delhi</text>
+            </inscription>
+            <inscription>
+                <text type="text" lang="eng" script="Latn">M-S. Anand Singh &amp; Co. Delhi
+                    By Seth Sat Narain
+                    of Delhi
+                    1927</text>
+            </inscription>
+            <inscription>
+                <text type="text" lang="eng" script="Latn">Aligarh Horse Show And D[... F]air
+                    1917</text>
+            </inscription>
+            <inscription>
+                <text type="text" lang="eng" script="Latn">Anand Flute Best in the Market.</text>
+            </inscription>
+            <inscription>
+                <text type="text" lang="eng" script="Latn">Calendar for 1936.</text>
+            </inscription>
+            <inscription>
+                <text type="text" lang="eng" script="Latn">See our quality before you buy from elsewhere.</text>
+            </inscription>
+            <inscription>
+                <text type="text" lang="eng" script="Latn">Calendar MFG. Co. Post Box No. 476 B[...]</text>
+            </inscription>
+        </inscriptionSet>
+        <locationSet>
+            <location source="exc" type="repository">
+                <name type="corporate" vocab="local" refid="uuid-1544a228-b79f-5cd9-a2ac-ff357ef3da5b">Delhi / The Priya Paul Collection of Popular Art</name>
+            </location>
+        </locationSet>
+        <materialSet>
+            <material vocab="aat" refid="300014109" type="medium">paper (fiber product)</material>
+        </materialSet>
+        <measurementsSet>
+            <notes>H 45 cm, W 25 cm, portrait</notes>
+            <measurements type="height" unit="cm">45</measurements>
+            <measurements type="width" unit="cm">25</measurements>
+            <measurements shape="portrait"/>
+        </measurementsSet>
+        <relationSet>
+            <relation type="imageIs" relids="i_f3b42f6a-68b0-501c-8eee-f3365d28044c" source="EXC Priya Paul Collection, HeidIcon" pref="true">general view</relation>
+            <relation type="imageIs" relids="i_ec02f005-c975-5206-bf21-3c90bb290c78" source="EXC Priya Paul Collection, HeidIcon">detail view</relation>
+        </relationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <rightsHolder/>
+                <text>Copyrighted. Copyright with the original artists and publishers.</text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject source="exc" vocab="LOCAL" refid="8373d6f0-a4f0-5198-a092-25ff4af2c41f">
+                <term type="descriptiveTopic">posters</term>
+            </subject>
+            <subject source="exc" vocab="LOCAL" refid="ff1ab8b7-efbe-5fa5-ac84-b3d21e127b77">
+                <term type="conceptTopic">fair skin</term>
+            </subject>
+            <subject source="exc" vocab="LOCAL" refid="d20f79fd-38c3-5b8b-8e4a-8fb6c4171397">
+                <term type="conceptTopic">Indian women</term>
+            </subject>
+            <subject source="exc" vocab="LOCAL" refid="fa6616f5-f242-521a-843c-c5b084cc7845">
+                <term type="descriptiveTopic">advertisements</term>
+            </subject>
+            <subject source="exc" vocab="LOCAL" refid="37e0ef55-0bad-54b1-8ded-1082206c6016">
+                <term type="descriptiveTopic">calendars</term>
+            </subject>
+            <subject source="exc" vocab="LOCAL" refid="9c5748ad-fc60-5146-a94d-fb6f362640f3">
+                <term type="descriptiveTopic">musical instruments</term>
+            </subject>
+            <subject source="exc" vocab="LOCAL" refid="57ab7141-8be0-5bd4-88b1-ebdc0d26db03">
+                <term type="descriptiveTopic">logos</term>
+            </subject>
+            <subject source="exc" vocab="LOCAL" refid="41a891fd-ae61-50e0-be04-0030c44295e2">
+                <term type="descriptiveTopic">spectacles (eye glasses)</term>
+            </subject>
+            <subject source="exc" vocab="LOCAL" refid="e7eade51-a62c-536d-ad72-5805e2e49f58">
+                <term type="descriptiveTopic">harmoniums</term>
+            </subject>
+        </subjectSet>
+        <techniqueSet>
+            <technique vocab="aat" refid="300041384">chromolithographs</technique>
+        </techniqueSet>
+        <titleSet>
+            <title type="descriptive" pref="true" lang="eng" script="Latn">Calendar advertisement for Anand Singh &amp; Co. (1936)</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="aat" refid="300027221">posters</worktype>
+            <worktype vocab="aat" refid="300193993">advertisements</worktype>
+            <worktype vocab="aat" refid="300026741">calendars</worktype>
+        </worktypeSet>
+        <ext:heidicon>
+            <ext:item type="f_zusammenhang" status="0" display="zusammenhang">
+                <ext:value>torn</ext:value>
+            </ext:item>
+        </ext:heidicon>
+        <ext:heidicon>
+            <ext:item type="f_id_heidicon" status="0" display="Heidicon image_id">
+                <ext:value>http://heidicon.ub.uni-heidelberg.de/id/120919</ext:value>
+                <ext:value>120919</ext:value>
+            </ext:item>
+        </ext:heidicon>
+        <ext:heidicon>
+            <ext:item type="modification" status="0">
+                <ext:value type="date">2015-01-28T14:35:00</ext:value>
+                <ext:item type="agent">
+                    <ext:value type="role">Editor</ext:value>
+                    <ext:value type="name">Arnold, Matthias</ext:value>
+                    <ext:value type="agent-type">personal</ext:value>
+                    <ext:value type="refid">uuid-009f50e1-2a8e-5896-89a1-665effeff19c</ext:value>
+                </ext:item>
+            </ext:item>
+        </ext:heidicon>
+        <ext:heidicon>
+            <ext:administrative type="heidicon2vra" date="2014-03-11T15:46:02"/>
+        </ext:heidicon>
+    </work>
+</vra>

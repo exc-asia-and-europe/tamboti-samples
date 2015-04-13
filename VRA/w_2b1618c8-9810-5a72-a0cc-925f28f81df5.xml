@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:ext="http://exist-db.org/vra/extension" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <work id="w_2b1618c8-9810-5a72-a0cc-925f28f81df5" source="EXC Priya Paul Collection">
+        <agentSet>
+            <agent>
+                <name vocab="viaf" type="personal" refid="277848046">Paul, Priya</name>
+                <role vocab="marcrelator" type="code">col</role>
+            </agent>
+            <agent>
+                <name vocab="local" type="corporate" refid="uuid-c65baded-1fa5-5605-912a-d8cb1517da7e">Delhi Calendar Manufacturing Company</name>
+                <role vocab="marcrelator" type="code">mfr</role>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>
+                    <date>1941</date>
+                </earliestDate>
+                <latestDate>
+                    <date>1941</date>
+                </latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description lang="eng" script="Latn">
+            	<text>This is a sample advertisement calendar from the Delhi Calendar Mfg. Co. Its central image schows a blonde, light skinned girl sitting on a small dry-stone wall in a seemingly European landscape. A blue toy cart with red wheels and a white teddy boar or toy dog in it stands next to her. She has a blue bow in her hair, wears a yellow pullover with red stripes and a blue skirt, whit shoes and blue stockings. She has picked up some flowers and holds them in her right hand. She looks at the branch of an oak tree to her upper right where a robin-like bird feeds its three nestlings. Another bird (more looking like a swallow) is flying towards the nest. Text is printed in blue and red. Below the image a December sheet of a 1941 calendar can be seen. The poster is damaged at the lower left section.</text>
+                <author>
+                    <name vocab="local" type="personal" refid="uuid-d4f4f076-3fb9-5544-95bf-29ba8cb16992">Schoenhofer, Gerhard</name>
+                    <role vocab="marcrelator" type="code">mdc</role>
+                </author>
+            </description>
+            <description lang="eng" script="Latn">
+                <text>This is a sample record. Data in the original record may have changed. The original record can be accessed at w_15bbdabf-1996-568e-a378-9ba71cef32d7</text>
+                <author>
+                    <name vocab="local" type="corporate" refid="uuid-492ff6ac-d4b8-5d8a-b6c9-58287f9184cb">PPColl_editors</name>
+                    <role vocab="marcrelator" type="code">edt</role>
+                </author>
+            </description>
+        </descriptionSet>
+        <inscriptionSet>
+            <inscription>
+                <text type="text" lang="eng" script="Latn">Delhi Calendar Mfg. Co., 
+High Class Calendar &amp; Advertising Novelty Manufacturers
+Kashmere Gate, 
+Delhi.</text>
+            </inscription>
+            <inscription>
+                <text type="text" lang="eng" script="Latn">Space for Advertisement</text>
+            </inscription>
+            <inscription>
+                <text type="text" lang="eng" script="Latn">
+This is a sample of our complete Calendar with advertisement in Double colour &amp; Monthly date pad in 12 sheets
+____
+The Tin Mounting will also be done on Bottom &amp; Top with a Hanging Tape.</text>
+            </inscription>
+            <inscription>
+                <text type="text" lang="eng" script="Latn">[...pr]ices please see our Clause No. 7 &amp; 6 of the Price List.</text>
+            </inscription>
+            <inscription>
+                <text type="text" lang="eng" script="Latn">New Year</text>
+            </inscription>
+            <inscription>
+                <text type="text" lang="eng" script="Latn">1941</text>
+            </inscription>
+        </inscriptionSet>
+        <locationSet>
+            <location source="exc" type="repository">
+                <name type="corporate" vocab="local" refid="uuid-1544a228-b79f-5cd9-a2ac-ff357ef3da5b">Delhi / The Priya Paul Collection of Popular Art</name>
+            </location>
+        </locationSet>
+        <materialSet>
+            <material vocab="aat" refid="300014109" type="medium">paper (fiber product)</material>
+        </materialSet>
+        <measurementsSet>
+            <notes>H 38 cm, L 25 cm,  portrait</notes>
+            <measurements type="height" unit="cm">38</measurements>
+            <measurements type="width" unit="cm">25</measurements>
+            <measurements shape="portrait"/>
+        </measurementsSet>
+        <relationSet>
+            <relation type="imageIs" relids="i_83e8f08a-c6d9-5d0f-ad4e-b32e61cf2a2e" source="EXC Priya Paul Collection, HeidIcon" pref="true">general view</relation>
+        </relationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <rightsHolder/>
+                <text>Copyrighted. Copyright with the original artists and publishers.</text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject source="exc" vocab="LOCAL" refid="1a89efdf-be08-51d4-9cea-487ea1db3f3b">
+                <term type="conceptTopic">whiteness</term>
+            </subject>
+            <subject source="exc" vocab="LOCAL" refid="2afb3431-0ff7-51fc-aca3-559416741e66">
+                <term type="descriptiveTopic">flowers (plants)</term>
+            </subject>
+            <subject source="exc" vocab="LOCAL" refid="38badb36-8a99-5821-b97f-a64e3b6e0ce9">
+                <term type="descriptiveTopic">girls</term>
+            </subject>
+            <subject source="exc" vocab="LOCAL" refid="37e0ef55-0bad-54b1-8ded-1082206c6016">
+                <term type="descriptiveTopic">calendars</term>
+            </subject>
+            <subject source="exc" vocab="LOCAL" refid="c0102a51-5293-573e-97e6-d863e90a33bf">
+                <term type="descriptiveTopic">birds (animals)</term>
+            </subject>
+            <subject source="exc" vocab="LOCAL" refid="7862d0bd-418e-5438-870b-58bbc640eb0e">
+                <term type="descriptiveTopic">trees</term>
+            </subject>
+            <subject source="exc" vocab="LOCAL" refid="703d170e-332a-5105-bfbf-e3f137b848ff">
+                <term type="descriptiveTopic">toys (recreational artifacts)</term>
+            </subject>
+            <subject source="exc" vocab="LOCAL" refid="cf7de29c-dc86-5221-b1d0-f1ef5165575c">
+                <term type="descriptiveTopic">blonde hair</term>
+            </subject>
+            <subject source="exc" vocab="LOCAL" refid="d41cc3ee-cde6-5d31-a26e-dc7618b57333">
+                <term type="descriptiveTopic">nests (animal architecture)</term>
+            </subject>
+        </subjectSet>
+        <techniqueSet>
+            <technique vocab="aat" refid="300041384">chromolithographs</technique>
+        </techniqueSet>
+        <titleSet>
+            <title type="descriptive" pref="true" lang="eng" script="Latn">Sample advertisement calendar of Delhi Calender Mfg.Co.</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="aat" refid="300026741">calendars</worktype>
+        </worktypeSet>
+        <ext:heidicon>
+            <ext:item type="f_zusammenhang" status="0" display="zusammenhang">
+                <ext:value>good</ext:value>
+            </ext:item>
+        </ext:heidicon>
+        <ext:heidicon>
+            <ext:item type="f_id_heidicon" status="0" display="Heidicon image_id">
+                <ext:value>http://heidicon.ub.uni-heidelberg.de/id/109881</ext:value>
+                <ext:value>109881</ext:value>
+            </ext:item>
+        </ext:heidicon>
+        <ext:heidicon>
+            <ext:item type="modification" status="0">
+                <ext:value type="date">2014-08-22T21:05:00</ext:value>
+                <ext:item type="agent">
+                    <ext:value type="role">Editor</ext:value>
+                    <ext:value type="name">Arnold, Matthias</ext:value>
+                    <ext:value type="agent-type">personal</ext:value>
+                    <ext:value type="refid">uuid-009f50e1-2a8e-5896-89a1-665effeff19c</ext:value>
+                </ext:item>
+            </ext:item>
+        </ext:heidicon>
+        <ext:heidicon>
+            <ext:administrative type="heidicon2vra" date="2014-03-11T15:34:45"/>
+        </ext:heidicon>
+    </work>
+</vra>
