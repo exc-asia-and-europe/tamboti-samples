@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:ext="http://exist-db.org/vra/extension" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <work id="w_0b37891c-373a-5998-8963-a2d4cf5c14df" source="EXC Priya Paul Collection">
+        <agentSet>
+            <agent>
+                <name vocab="viaf" type="personal" refid="277848046">Paul, Priya</name>
+                <role vocab="marcrelator" type="code">col</role>
+            </agent>
+            <agent>
+                <name vocab="local" type="corporate" refid="uuid-b3ad4894-fb33-52b9-ae64-e87471c9aec7">A &amp; F Harvey</name>
+                <role vocab="marcrelator" type="code">cli</role>
+            </agent>
+            <agent>
+                <name vocab="local" type="corporate" refid="uuid-e7213ed9-ad38-55b8-bff8-ca845c6aa105">Madura Mills Co. Ltd.</name>
+                <role vocab="marcrelator" type="code">cli</role>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>
+                    <date>1941</date>
+                </earliestDate>
+                <latestDate>
+                    <date>1941</date>
+                </latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description lang="eng" script="Latn" vocab="aat" refid="300240903">
+                <text>This calendar poster is advertising for A. &amp; F. Harvey and Madura Mills Co. Ltd. The central image shows Parvati (incarnated as Tadaatagai) and Shiva  riding on the celestial ox Nandi in front of the Meenakshi Amman Temple symbolised by the decorated arch in the background. Around the central image product samples and textile lables are depicted, together with a calendar of 1941.</text>
+                <author>
+                    <name vocab="local" type="corporate" refid="uuid-492ff6ac-d4b8-5d8a-b6c9-58287f9184cb">PPColl_editors</name>
+                    <role vocab="marcrelator" type="code">edt</role>
+                </author>
+            </description>
+            <description lang="eng" script="Latn" vocab="aat" refid="300240903">
+                <text>framing (processes)</text>
+            </description>
+            <description lang="eng" script="Latn">
+                <text>This is a sample record. Data in the original record may have changed. The original record can be accessed at w_49b9e77a-5804-5e01-93d6-d630dbb2a88f</text>
+                <author>
+                    <name vocab="local" type="corporate" refid="uuid-492ff6ac-d4b8-5d8a-b6c9-58287f9184cb">PPColl_editors</name>
+                    <role vocab="marcrelator" type="code">edt</role>
+                </author>
+            </description>
+        </descriptionSet>
+        <inscriptionSet>
+            <inscription>
+                <text type="text" lang="eng" script="Latn">A &amp; F Harvey
+Merchants and cotton spinners</text>
+            </inscription>
+            <inscription>
+                <text type="text" lang="eng" script="Latn">Counts up to 80's
+Single Yarns
+Double Yarns</text>
+            </inscription>
+            <inscription>
+                <text type="text" lang="eng" script="Latn">Cone Yarns
+Cheese Yarns
+Cord &amp; Fancy Yarns</text>
+            </inscription>
+            <inscription>
+                <text type="text" lang="eng" script="Latn">cone yarn
+Madura Mills co. Ltd.
+20 s
+Madura</text>
+            </inscription>
+            <inscription>
+                <text type="text" lang="eng" script="Latn">cheese yarn
+Madura Mills Co. Ltd.
+24 s
+Madura
+Cohal Mills Co. Ltd
+Ring No</text>
+            </inscription>
+            <inscription>
+            	<position>inscription on arch in central image</position>
+            	<text type="text" lang="eng" script="Latn">With the Compliments of
+Madura Mills Co. Ltd.</text>
+            </inscription>
+            <inscription>
+            	<position>central image</position>
+            	<text type="signature" lang="eng" script="Latn">The Arts School,
+Madura.</text>
+            </inscription>
+            <inscription>
+            	<position>below central image, center</position>
+                <text type="text" lang="eng" script="Latn">Sree Meenakshisundareswarar, Madura</text>
+            </inscription>
+            <inscription>
+                <text type="text" lang="eng" script="Latn">Madura Mills Company Limited.
+Best Ring</text>
+            </inscription>
+            <inscription>
+                <text type="text" lang="eng" script="Latn">Tinnevelly Turbine Twist
+Tinnevelly Mills Company Limited
+Ring No.</text>
+            </inscription>
+            <inscription>
+                <text type="text" lang="eng" script="Latn">Madura Mills Co. Ltd.
+Tuticorn, Madura &amp; Ambasamudram, South India</text>
+            </inscription>
+            <inscription>
+                <text type="text" lang="eng" script="Latn">London Correspondents
+Harvey Brothers
+Agency Ltd.
+34 Queen Anne's Gate
+Westminster
+London
+S. W. 1</text>
+            </inscription>
+            <inscription>
+                <text type="text" lang="eng" script="Latn">1941</text>
+            </inscription>
+            <inscription>
+                <text type="text" lang="eng" script="Latn">Tele Address SONPAL.
+Phone: B. B. 1519
+Yarns available from
+Messrs
+Mooljee Girdhardass
+5, Noormull Lohia Lane
+&amp;
+176, cross Street,
+Calcutta.</text>
+            </inscription>
+            <inscription>
+                <text type="text" lang="eng" script="Latn">Associated printers, Mount Road, Madras.</text>
+            </inscription>
+            <inscription>
+                <text type="signature">The Arts School, Madura.</text>
+            </inscription>
+        </inscriptionSet>
+        <locationSet>
+            <location source="exc" type="repository">
+                <name type="corporate" vocab="local" refid="uuid-1544a228-b79f-5cd9-a2ac-ff357ef3da5b">Delhi / The Priya Paul Collection of Popular Art</name>
+            </location>
+        </locationSet>
+        <materialSet>
+            <material vocab="aat" refid="300014109" type="medium">paper (fiber product)</material>
+        </materialSet>
+        <measurementsSet>
+            <notes>38 cm x 50 cm, landscape</notes>
+            <measurements type="height" unit="cm">38</measurements>
+            <measurements type="width" unit="cm">50</measurements>
+            <measurements shape="landscape"/>
+        </measurementsSet>
+        <relationSet>
+            <relation type="imageIs" relids="i_87b9668a-e84f-5a41-859e-7ff68af8dbdf" source="EXC Priya Paul Collection, HeidIcon" pref="true">general view</relation>
+            <relation type="imageIs" relids="i_d84782b3-5131-54d5-a730-7c31c7e60960" source="EXC Priya Paul Collection, HeidIcon">detail view</relation>
+        </relationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <rightsHolder/>
+                <text>Copyrighted. Copyright with the original artists and publishers.</text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject source="exc" vocab="LOCAL" refid="fa6616f5-f242-521a-843c-c5b084cc7845">
+                <term type="descriptiveTopic">advertisements</term>
+            </subject>
+            <subject source="exc" vocab="LOCAL" refid="e96f2402-7aa3-539e-99cf-6bce03f8b2b4">
+                <term type="descriptiveTopic">product advertisement</term>
+            </subject>
+            <subject source="exc" vocab="LOCAL" refid="e1843b1e-dbc3-59fa-862b-ad2576503b22">
+                <term type="descriptiveTopic">cows</term>
+            </subject>
+            <subject source="exc" vocab="LOCAL" refid="37e0ef55-0bad-54b1-8ded-1082206c6016">
+                <term type="descriptiveTopic">calendars</term>
+            </subject>
+        </subjectSet>
+        <techniqueSet>
+            <technique vocab="aat" refid="300041384">chromolithographs</technique>
+        </techniqueSet>
+        <titleSet>
+            <title type="descriptive" pref="true" lang="eng" script="Latn">Advertisement calendar for A &amp; F Harvey</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="aat" refid="300027221">posters</worktype>
+            <worktype vocab="aat" refid="300026741">calendars</worktype>
+        </worktypeSet>
+        <ext:heidicon>
+            <ext:item type="f_zusammenhang" status="0" display="zusammenhang">
+                <ext:value>damaged</ext:value>
+            </ext:item>
+            <ext:item type="f_zusammenhang" status="0" display="zusammenhang">
+                <ext:value>image cut on top and bottom</ext:value>
+            </ext:item>
+        </ext:heidicon>
+        <ext:heidicon>
+            <ext:item type="f_id_heidicon" status="0" display="Heidicon image_id">
+                <ext:value>http://heidicon.ub.uni-heidelberg.de/id/118512</ext:value>
+                <ext:value>118512</ext:value>
+            </ext:item>
+        </ext:heidicon>
+        <ext:heidicon>
+            <ext:item type="modification" status="0">
+                <ext:value type="date">2014-08-22T21:05:00</ext:value>
+                <ext:item type="agent">
+                    <ext:value type="role">Editor</ext:value>
+                    <ext:value type="name">Arnold, Matthias</ext:value>
+                    <ext:value type="agent-type">personal</ext:value>
+                    <ext:value type="refid">uuid-009f50e1-2a8e-5896-89a1-665effeff19c</ext:value>
+                </ext:item>
+            </ext:item>
+        </ext:heidicon>
+        <ext:heidicon>
+            <ext:administrative type="heidicon2vra" date="2014-03-11T15:43:54"/>
+        </ext:heidicon>
+    </work>
+</vra>

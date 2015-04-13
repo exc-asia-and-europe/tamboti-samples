@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:ext="http://exist-db.org/vra/extension" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <work id="w_0efed9e8-9ec4-576a-946d-10e24d81eaf0" source="EXC Priya Paul Collection">
+        <agentSet>
+            <agent>
+                <name vocab="viaf" type="personal" refid="277848046">Paul, Priya</name>
+                <role vocab="marcrelator" type="code">col</role>
+            </agent>
+            <agent>
+                <name vocab="local" type="personal" refid="uuid-2998d526-9be9-5518-936b-ba70fa17b774">Bharat Mata</name>
+                <role vocab="marcrelator" type="code">dpc</role>
+            </agent>
+            <agent>
+                <name vocab="local" type="personal" refid="uuid-664f87db-93fc-53c2-bcc1-94d6a30fe186">Krishna</name>
+                <role vocab="marcrelator" type="code">dpc</role>
+            </agent>
+            <agent>
+                <name vocab="local" type="corporate" refid="uuid-00ca26cf-8124-5f58-846f-43af173cacd6">Zandu Pharmaceutical Works</name>
+                <role vocab="marcrelator" type="code">cli</role>
+            </agent>
+            <agent>
+                <name vocab="local" type="corporate" refid="uuid-8bd8e279-1549-54f7-a0b1-1e51f671e928">Ravi Udaya-Vijaya</name>
+                <role vocab="marcrelator" type="code">mfr</role>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>
+                    <date>1944</date>
+                </earliestDate>
+                <latestDate>
+                    <date>1944</date>
+                </latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description lang="eng" script="Latn">
+            	<text>This 1944 calendar poster of Zandu Pharmaceutical Works advertises various medicines of the company. Eight product samples are reproduced around a central image, including a Malaria mixture, Coconut hair oil with jasmine flavor, Rakto Phospho Malt, Rejuvina, Bal Shoolarna, Campho-Cod, and Chyavanprash avaleha. The central image shows Lord Krishna in dark-greyish clouds, who holds his hand in a blessing-position towards and above Bharat Mata (Mother India) on the ground. She is shown in front of the hazy outline of a map of India. The ends of a broken chain are fastened to the continent, but Mother india can now walk freely. Strewn around her are broken weapons and other battle remains, rifles, bullets, grenades, but also wheels and gear wheels (probably produced by World War II). In the distance, the landscape dissolves into the ocean, where a steam ship can be seen. A Hindi text printed in red at the centre of the image reads: “Let Mother India be free, let peace prevail in the world.” The poster was printed at Ravi Udaya-Vijaya photolighting offset works.</text>
+                <author>
+                    <name vocab="local" type="personal" refid="uuid-d4f4f076-3fb9-5544-95bf-29ba8cb16992">Schoenhofer, Gerhard</name>
+                    <role vocab="marcrelator" type="code">mdc</role>
+                </author>
+            </description>
+            <description lang="eng" script="Latn">
+                <text>This is a sample record. Data in the original record may have changed. The original record can be accessed at w_0e670182-3afd-5681-99fb-1342f93758e4</text>
+                <author>
+                    <name vocab="local" type="corporate" refid="uuid-492ff6ac-d4b8-5d8a-b6c9-58287f9184cb">PPColl_editors</name>
+                    <role vocab="marcrelator" type="code">edt</role>
+                </author>
+            </description>
+        </descriptionSet>
+        <inscriptionSet>
+            <inscription>
+                <text type="text" lang="eng" script="Latn">The
+Zandu Pharmaceutical Works</text>
+            </inscription>
+            <inscription>
+                <text type="text" lang="eng" script="Latn">Manufacturers of
+Ayurvedic &amp; Allopathic Medicines
+P. B. No 5513.
+Bombay 14</text>
+            </inscription>
+            <inscription>
+                <text type="text" lang="hin" script="Deva">भारत माताकी मुक्ति हो
+जगतमें शान्ति हो.</text>
+                <text type="translation" lang="eng" script="Latn">Let Mother India be free
+let peace prevail in the world</text>
+            </inscription>
+            <inscription>
+                <text type="text" lang="eng" script="Latn">1944</text>
+            </inscription>
+            <inscription>
+                <text type="text" lang="eng" script="Latn">Printed at Ravi Udaya-Vijaya Photo Litho Offset Works. Ghatkop</text>
+            </inscription>
+        </inscriptionSet>
+        <locationSet>
+            <location source="exc" type="repository">
+                <name type="corporate" vocab="local" refid="uuid-1544a228-b79f-5cd9-a2ac-ff357ef3da5b">Delhi / The Priya Paul Collection of Popular Art</name>
+            </location>
+        </locationSet>
+        <relationSet>
+            <relation type="imageIs" relids="i_73cecaf3-04d7-566c-8c6d-51e35d4618d5" source="EXC Priya Paul Collection, HeidIcon" pref="true">general view</relation>
+        </relationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <rightsHolder/>
+                <text>Copyrighted. Copyright with the original artists and publishers.</text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject source="exc" vocab="LOCAL" refid="d098726e-7f50-5762-89f5-d0abe5d31ac7">
+                <term type="descriptiveTopic">oceans</term>
+            </subject>
+            <subject source="exc" vocab="LOCAL" refid="691f9bd9-9cb7-584c-9489-db876ed9c2cb">
+                <term type="descriptiveTopic">weapons</term>
+            </subject>
+            <subject source="exc" vocab="LOCAL" refid="3ba794ce-4a17-544f-ad51-7cc4a49a3b4c">
+                <term type="descriptiveTopic">maps</term>
+            </subject>
+            <subject source="exc" vocab="LOCAL" refid="a534015e-9178-5040-a211-7e733525c283">
+                <term type="geographicPlace">India</term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title type="descriptive" pref="true" lang="eng" script="Latn">Advertisement calendar for Zandu Pharmaceutical Works (1944)</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="aat" refid="300026741">calendars</worktype>
+        </worktypeSet>
+        <ext:heidicon>
+            <ext:item type="f_id_heidicon" status="0" display="Heidicon image_id">
+                <ext:value>http://heidicon.ub.uni-heidelberg.de/id/139295</ext:value>
+                <ext:value>139295</ext:value>
+            </ext:item>
+        </ext:heidicon>
+        <ext:heidicon>
+            <ext:item type="modification" status="0">
+                <ext:value type="date">2014-08-22T21:05:00</ext:value>
+                <ext:item type="agent">
+                    <ext:value type="role">Editor</ext:value>
+                    <ext:value type="name">Arnold, Matthias</ext:value>
+                    <ext:value type="agent-type">personal</ext:value>
+                    <ext:value type="refid">uuid-009f50e1-2a8e-5896-89a1-665effeff19c</ext:value>
+                </ext:item>
+            </ext:item>
+        </ext:heidicon>
+        <ext:heidicon>
+            <ext:administrative type="heidicon2vra" date="2014-03-11T15:51:08"/>
+        </ext:heidicon>
+    </work>
+</vra>
