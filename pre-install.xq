@@ -20,15 +20,22 @@ declare variable $local:biblio-admin-user := "editor";
 declare variable $local:biblio-users-group := "biblio.users";
 
 declare function local:mkcol-recursive($collection, $components, $permissions as xs:string) {
-    if (exists($components)) then
+    if (exists($components))
+    then
         let $newColl := concat($collection, "/", $components[1])
         return (
-            xmldb:create-collection($collection, $components[1]),
-            local:set-resource-properties(xs:anyURI($newColl), $permissions),
+            if (not(xmldb:collection-available($newColl)))
+            then
+                (
+                    xmldb:create-collection($collection, $components[1])
+                    ,
+                    local:set-resource-properties(xs:anyURI($newColl), $permissions)
+                )
+            else ()
+            ,
             local:mkcol-recursive($newColl, subsequence($components, 2), $permissions)
         )
-    else
-        ()
+    else ()
 };
 
 (: Helper function to recursively create a collection hierarchy. :)
