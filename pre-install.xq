@@ -15,10 +15,6 @@ declare variable $db-root := "/db";
 declare variable $samples-collection-path := $config:mods-commons || "/Samples";
 declare variable $sample-collection-names := ("Sociology", "eXist-db");
 
-(:~ Collection paths :)
-declare variable $local:collection-mode := "rwx------";
-declare variable $local:resource-mode := "rw-------";
-
 declare function local:mkcol-recursive($collection, $components, $permissions as xs:string) {
     if (exists($components))
     then
@@ -57,7 +53,7 @@ declare function local:set-child-resources-properties($collection-path as xs:any
 };
 
 (
-    local:mkcol($db-root, $samples-collection-path, $local:collection-mode)
+    local:mkcol($db-root, $samples-collection-path, $config:public-collection-mode)
     ,
     for $sample-collection-name in $sample-collection-names
     let $sample-collection-path := xs:anyURI("/" || $samples-collection-path || "/" || $sample-collection-name)
@@ -67,11 +63,11 @@ declare function local:set-child-resources-properties($collection-path as xs:any
             ,
             xmldb:create-collection("/" || $samples-collection-path, $sample-collection-name)
             ,
-            local:set-resource-properties($sample-collection-path, $local:collection-mode)
+            local:set-resource-properties($sample-collection-path, $config:public-collection-mode)
             ,           
             xmldb:store-files-from-pattern($sample-collection-path, $dir, $sample-collection-name || "/*.xml")
             ,
-            local:set-child-resources-properties($sample-collection-path, $local:resource-mode)
+            local:set-child-resources-properties($sample-collection-path, $config:public-resource-mode)
         )
 )
 
