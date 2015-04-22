@@ -12,28 +12,4 @@ declare variable $target external;
 
 declare variable $db-root := "/db";
 
-(:~ Collection names :)
-declare variable $samples-collection-path := $config:mods-commons || "/Samples";
-declare variable $sample-collection-names := ("Sociology", "eXist-db");
-
-(
-    installation:mkcol($db-root, $samples-collection-path, $config:public-collection-mode)
-    ,
-    for $sample-collection-name in $sample-collection-names
-    let $sample-collection-path := xs:anyURI($samples-collection-path || "/" || $sample-collection-name)
-    return
-        (
-            if (xmldb:collection-available($sample-collection-path))
-            then xmldb:remove($sample-collection-path)
-            else ()
-            ,
-            xmldb:create-collection($samples-collection-path, $sample-collection-name)
-            ,
-            installation:set-resource-properties($sample-collection-path, $config:public-collection-mode)
-            ,           
-            xmldb:store-files-from-pattern($sample-collection-path, $dir, $sample-collection-name || "/*.xml")
-            ,
-            installation:set-child-resources-properties($sample-collection-path, $config:public-resource-mode)
-        )
-)
-
+installation:mkcol($db-root, $config:samples-collection-path, $config:public-collection-mode)
