@@ -1,5 +1,7 @@
 xquery version "3.0";
 
+import module namespace config = "http://exist-db.org/mods/config" at "/apps/tamboti/modules/config.xqm";
+
 (: file path pointing to the exist installation directory :)
 declare variable $home external;
 (: path to the directory containing the unpacked .xar package :)
@@ -10,14 +12,12 @@ declare variable $target external;
 declare variable $db-root := "/db";
 
 (:~ Collection names :)
-declare variable $samples-collection-path := "data/commons/Samples";
+declare variable $samples-collection-path := $config:mods-commons || "/Samples";
 declare variable $sample-collection-names := ("Sociology", "eXist-db");
 
 (:~ Collection paths :)
 declare variable $local:collection-mode := "rwx------";
 declare variable $local:resource-mode := "rw-------";
-declare variable $local:biblio-admin-user := "editor";
-declare variable $local:biblio-users-group := "biblio.users";
 
 declare function local:mkcol-recursive($collection, $components, $permissions as xs:string) {
     if (exists($components))
@@ -45,8 +45,8 @@ declare function local:mkcol($collection, $path, $permissions as xs:string) {
 
 declare function local:set-resource-properties($resource-path as xs:anyURI, $permissions as xs:string) {
     (
-        sm:chown($resource-path, $local:biblio-admin-user),
-        sm:chgrp($resource-path, $local:biblio-users-group),
+        sm:chown($resource-path, $config:biblio-admin-user),
+        sm:chgrp($resource-path, $config:biblio-users-group),
         sm:chmod($resource-path, $permissions)        
     )    
 };
