@@ -1,4 +1,4 @@
-<package xmlns="http://expath.org/ns/pkg" name="${package-name}" abbrev="${project.artifactId}" version="${project.version}"
+<package xmlns="http://expath.org/ns/pkg" name="${package-name}" abbrev="tamboti-${project.artifactId}" version="${project.version}"
 	spec="1.0">
 	<title>${package-title}</title>
 	<author id="cteodorescu">Claudius Teodorescu</author>
