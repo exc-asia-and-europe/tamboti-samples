@@ -177,28 +177,28 @@ Smoke Anchor Brand Bidis</text>
             </source>
         </sourceSet>
         <subjectSet>
-            <subject source="exc" vocab="LOCAL" refid="673d0b1a-3753-53e6-a397-f13384501b2b">
+        	<subject vocab="aat" refid="300008795">
                 <term type="descriptiveTopic">mountains</term>
             </subject>
-            <subject source="exc" vocab="LOCAL" refid="2b8d27a0-4d79-54d8-bc99-98dce092cec2">
+        	<subject vocab="aat" refid="300036976">
                 <term type="descriptiveTopic">arrows</term>
             </subject>
-            <subject source="exc" vocab="LOCAL" refid="8373d6f0-a4f0-5198-a092-25ff4af2c41f">
+            <subject vocab="aat" refid="300027221">
                 <term type="descriptiveTopic">posters</term>
             </subject>
-            <subject source="exc" vocab="LOCAL" refid="fa6616f5-f242-521a-843c-c5b084cc7845">
+            <subject vocab="aat" refid="300193993">
                 <term type="descriptiveTopic">advertisements</term>
             </subject>
-            <subject source="exc" vocab="LOCAL" refid="56281032-b1d8-5e50-beab-a65e6c39318c">
+        	<subject vocab="aat" refid="300036999">
                 <term type="descriptiveTopic">bows (weapons)</term>
             </subject>
             <subject source="exc" vocab="LOCAL" refid="e96f2402-7aa3-539e-99cf-6bce03f8b2b4">
                 <term type="descriptiveTopic">product advertisement</term>
             </subject>
-            <subject source="exc" vocab="LOCAL" refid="37e0ef55-0bad-54b1-8ded-1082206c6016">
+        	<subject vocab="aat" refid="300026741">
                 <term type="descriptiveTopic">calendars</term>
             </subject>
-            <subject source="exc" vocab="LOCAL" refid="2929d0b5-473a-56ba-a56c-f4e80e338e41">
+        	<subject vocab="aat" refid="300046127">
                 <term type="descriptiveTopic">turbans</term>
             </subject>
             <subject source="exc" vocab="LOCAL" refid="107e847d-72b0-54f9-9057-b373db96a343">
@@ -207,16 +207,16 @@ Smoke Anchor Brand Bidis</text>
             <subject source="exc" vocab="LOCAL" refid="5baf3f4c-27ac-5b6b-a12a-0450ff4b9e56">
                 <term type="descriptiveTopic">bidi</term>
             </subject>
-            <subject source="exc" vocab="LOCAL" refid="eb8119d1-6749-5f22-b616-4ad7d43afc0e">
+        	<subject vocab="aat" refid="300219429">
                 <term type="descriptiveTopic">anchors (watercraft equipment)</term>
             </subject>
             <subject source="exc" vocab="LOCAL" refid="64560843-6236-5725-b42d-f1bb8c715604">
                 <term type="descriptiveTopic">Anchor Brand Bidi (product)</term>
             </subject>
-            <subject source="exc" vocab="LOCAL" refid="10291f72-d324-5196-a0ad-5a979a2b5b84">
+        	<subject vocab="aat" refid="300008733">
                 <term type="descriptiveTopic">shores (landforms)</term>
             </subject>
-            <subject source="exc" vocab="LOCAL" refid="a0eb956b-2ec4-566f-bf77-9ecd5ee9650d">
+        	<subject vocab="aat" refid="300213077">
                 <term type="descriptiveTopic">oars</term>
             </subject>
         </subjectSet>

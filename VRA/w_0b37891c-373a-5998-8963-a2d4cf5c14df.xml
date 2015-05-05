@@ -155,7 +155,7 @@ Calcutta.</text>
             </rights>
         </rightsSet>
         <subjectSet>
-            <subject source="exc" vocab="LOCAL" refid="fa6616f5-f242-521a-843c-c5b084cc7845">
+            <subject vocab="aat" refid="300193993">
                 <term type="descriptiveTopic">advertisements</term>
             </subject>
             <subject source="exc" vocab="LOCAL" refid="e96f2402-7aa3-539e-99cf-6bce03f8b2b4">
@@ -164,7 +164,7 @@ Calcutta.</text>
             <subject source="exc" vocab="LOCAL" refid="e1843b1e-dbc3-59fa-862b-ad2576503b22">
                 <term type="descriptiveTopic">cows</term>
             </subject>
-            <subject source="exc" vocab="LOCAL" refid="37e0ef55-0bad-54b1-8ded-1082206c6016">
+        	<subject vocab="aat" refid="300026741">
                 <term type="descriptiveTopic">calendars</term>
             </subject>
         </subjectSet>

@@ -87,31 +87,31 @@ The Tin Mounting will also be done on Bottom &amp; Top with a Hanging Tape.</tex
             </rights>
         </rightsSet>
         <subjectSet>
-            <subject source="exc" vocab="LOCAL" refid="1a89efdf-be08-51d4-9cea-487ea1db3f3b">
+        	<subject vocab="aat" refid="300379658">
                 <term type="conceptTopic">whiteness</term>
             </subject>
             <subject source="exc" vocab="LOCAL" refid="2afb3431-0ff7-51fc-aca3-559416741e66">
                 <term type="descriptiveTopic">flowers (plants)</term>
             </subject>
-            <subject source="exc" vocab="LOCAL" refid="38badb36-8a99-5821-b97f-a64e3b6e0ce9">
+        	<subject vocab="aat" refid="300247581">
                 <term type="descriptiveTopic">girls</term>
             </subject>
-            <subject source="exc" vocab="LOCAL" refid="37e0ef55-0bad-54b1-8ded-1082206c6016">
+        	<subject vocab="aat" refid="300026741">
                 <term type="descriptiveTopic">calendars</term>
             </subject>
             <subject source="exc" vocab="LOCAL" refid="c0102a51-5293-573e-97e6-d863e90a33bf">
                 <term type="descriptiveTopic">birds (animals)</term>
             </subject>
-            <subject source="exc" vocab="LOCAL" refid="7862d0bd-418e-5438-870b-58bbc640eb0e">
+        	<subject vocab="aat" refid="300132410">
                 <term type="descriptiveTopic">trees</term>
             </subject>
-            <subject source="exc" vocab="LOCAL" refid="703d170e-332a-5105-bfbf-e3f137b848ff">
+        	<subject vocab="aat" refid="300211037">
                 <term type="descriptiveTopic">toys (recreational artifacts)</term>
             </subject>
             <subject source="exc" vocab="LOCAL" refid="cf7de29c-dc86-5221-b1d0-f1ef5165575c">
                 <term type="descriptiveTopic">blonde hair</term>
             </subject>
-            <subject source="exc" vocab="LOCAL" refid="d41cc3ee-cde6-5d31-a26e-dc7618b57333">
+        	<subject vocab="aat" refid="300380003">
                 <term type="descriptiveTopic">nests (animal architecture)</term>
             </subject>
         </subjectSet>
@@ -119,7 +119,7 @@ The Tin Mounting will also be done on Bottom &amp; Top with a Hanging Tape.</tex
             <technique vocab="aat" refid="300041384">chromolithographs</technique>
         </techniqueSet>
         <titleSet>
-            <title type="descriptive" pref="true" lang="eng" script="Latn">Sample advertisement calendar of Delhi Calender Mfg.Co.</title>
+            <title type="descriptive" pref="true" lang="eng" script="Latn">Sample advertisement calendar of Delhi Calender Mfg. Co.</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="aat" refid="300026741">calendars</worktype>

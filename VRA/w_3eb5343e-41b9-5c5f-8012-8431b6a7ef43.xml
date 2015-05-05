@@ -141,11 +141,11 @@ Colas - Stearine</text>
             <stylePeriod>early 20th century</stylePeriod>
         </stylePeriodSet>
         <subjectSet>
-            <subject source="exc" vocab="LOCAL" refid="a5a5d700-ad58-59c8-95b1-7f82f2fae90e">
+        	<subject vocab="aat" refid="300008707">
                 <term type="descriptiveTopic">rivers</term>
             </subject>
-            <subject source="exc" vocab="LOCAL" refid="fa6616f5-f242-521a-843c-c5b084cc7845">
-                <term type="descriptiveTopic">advertisements</term>
+            <subject vocab="aat" refid="300193993">
+            	<term type="descriptiveTopic">advertisements</term>
             </subject>
             <subject source="exc" vocab="LOCAL" refid="e96f2402-7aa3-539e-99cf-6bce03f8b2b4">
                 <term type="descriptiveTopic">product advertisement</term>
@@ -159,7 +159,7 @@ Colas - Stearine</text>
             <subject source="exc" vocab="LOCAL" refid="a865e5b9-2093-5654-b0c7-f27651e030b7">
                 <term type="descriptiveTopic">white bull</term>
             </subject>
-            <subject source="exc" vocab="LOCAL" refid="cebadea2-33d9-57b4-880b-9c4dbe09a61b">
+        	<subject vocab="aat" refid="300250117">
                 <term type="descriptiveTopic">bulls (animals)</term>
             </subject>
             <subject source="exc" vocab="LOCAL" refid="65392e6c-cd3f-5b38-b32e-3ce6307d73f2">

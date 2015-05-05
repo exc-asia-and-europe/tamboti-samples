@@ -88,16 +88,16 @@ let peace prevail in the world</text>
             </rights>
         </rightsSet>
         <subjectSet>
-            <subject source="exc" vocab="LOCAL" refid="d098726e-7f50-5762-89f5-d0abe5d31ac7">
+        	<subject vocab="aat" refid="300008687">
                 <term type="descriptiveTopic">oceans</term>
             </subject>
-            <subject source="exc" vocab="LOCAL" refid="691f9bd9-9cb7-584c-9489-db876ed9c2cb">
+        	<subject vocab="aat" refid="300036926">
                 <term type="descriptiveTopic">weapons</term>
             </subject>
             <subject source="exc" vocab="LOCAL" refid="3ba794ce-4a17-544f-ad51-7cc4a49a3b4c">
                 <term type="descriptiveTopic">maps</term>
             </subject>
-            <subject source="exc" vocab="LOCAL" refid="a534015e-9178-5040-a211-7e733525c283">
+        	<subject vocab="tgn" refid="7000198">
                 <term type="geographicPlace">India</term>
             </subject>
         </subjectSet>

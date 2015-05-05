@@ -87,25 +87,25 @@ Resist the Indian sun and strong Dhobi-wash</text>
             <subject source="exc" vocab="LOCAL" refid="1ab0b791-c983-5d5a-90d5-dfc85c8b2c23">
                 <term type="conceptTopic">Made in Germany</term>
             </subject>
-            <subject source="exc" vocab="LOCAL" refid="691ebeac-a255-5cce-a4da-dea272a31081">
+        	<subject vocab="aat" refid="300264515">
                 <term type="conceptTopic">Holi</term>
             </subject>
-            <subject source="exc" vocab="LOCAL" refid="f868db64-83f6-5d30-9158-0aacea827ab7">
+        	<subject vocab="aat" refid="300028771">
                 <term type="conceptTopic">country of origin marks</term>
             </subject>
             <subject source="exc" vocab="LOCAL" refid="2afb3431-0ff7-51fc-aca3-559416741e66">
                 <term type="descriptiveTopic">flowers (plants)</term>
             </subject>
-            <subject source="exc" vocab="LOCAL" refid="6af58f88-7f34-545e-9a30-d88dd22e9ceb">
+        	<subject vocab="aat" refid="300167386">
                 <term type="descriptiveTopic">festoon (motif)</term>
             </subject>
-            <subject source="exc" vocab="LOCAL" refid="b0847553-2d25-5449-8c02-ff3b194d6ab0">
+        	<subject vocab="aat" refid="300045697">
                 <term type="descriptiveTopic">pots (containers)</term>
             </subject>
             <subject source="exc" vocab="LOCAL" refid="60548934-7f80-5d62-8246-e9ece04af2db">
                 <term type="descriptiveTopic">plants</term>
             </subject>
-            <subject source="exc" vocab="LOCAL" refid="ec448b73-22cd-57e0-b986-e02942411d1f">
+        	<subject vocab="aat" refid="300209858">
                 <term type="descriptiveTopic">saris (garments)</term>
             </subject>
             <subject source="exc" vocab="LOCAL" refid="aabbc697-061e-58d1-9daa-e21ad8ce9273">

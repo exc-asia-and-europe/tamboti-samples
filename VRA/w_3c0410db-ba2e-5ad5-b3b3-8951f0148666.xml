@@ -100,10 +100,10 @@ No. is 419</text>
             <subject source="exc" vocab="LOCAL" refid="98cdd292-9b30-5297-a6f8-99dfdfc40644">
                 <term type="descriptiveTopic">red sari</term>
             </subject>
-            <subject source="exc" vocab="LOCAL" refid="fa6616f5-f242-521a-843c-c5b084cc7845">
+            <subject vocab="aat" refid="300193993">
                 <term type="descriptiveTopic">advertisements</term>
             </subject>
-            <subject source="exc" vocab="LOCAL" refid="37e0ef55-0bad-54b1-8ded-1082206c6016">
+        	<subject vocab="aat" refid="300026741">
                 <term type="descriptiveTopic">calendars</term>
             </subject>
             <subject source="exc" vocab="LOCAL" refid="394bf25b-0418-590d-809b-b31f176e95df">
@@ -115,10 +115,10 @@ No. is 419</text>
             <subject source="exc" vocab="LOCAL" refid="aabbc697-061e-58d1-9daa-e21ad8ce9273">
                 <term type="descriptiveTopic">peacock feather</term>
             </subject>
-            <subject source="exc" vocab="LOCAL" refid="0b0e7261-1443-59d8-b468-62bbadd4616c">
+        	<subject vocab="aat" refid="300343850">
                 <term type="iconographicTopic">deities</term>
             </subject>
-            <subject source="exc" vocab="LOCAL" refid="3b86ea94-9dbe-53d1-8beb-0c8f37a4416a">
+        	<subject vocab="aat" refid="300263370">
                 <term type="iconographicTopic">glories</term>
             </subject>
         </subjectSet>
