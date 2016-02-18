@@ -1,7 +1,7 @@
 samples
 =======
 
-Samples for tamboti application.
+VRA and MODs samples for tamboti application.
 
 ### Installation
 
